@@ -3,7 +3,7 @@ Hi 👋 My name is Yazeed Mshayekh
 
 <img alt="Coding" width="600" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-Co-Founder of Reverb.ai, a Machine Learning Engineer, and a Graphic Designer
+**Co-Founder of Reverb.ai, a Machine Learning Engineer, and a Graphic Designer**
 ----------------------------------------------------------------------------
 
 I am Yazeed Mshayekh, a 21-year-old Data Science enthusiast currently pursuing my academic journey at the University of Jordan with an impressive GPA of 3.6 🎓. My professional voyage includes a rewarding internship at SHAI, where I embraced the role of a Content Writer, delving into the realm of Artificial Intelligence, its latest advancements, and the nuances of Data Science. During my tenure, I was actively involved in machine learning training, dedicating eight months to mastering skills such as data preprocessing, visualization, training, pipeline construction, testing, model building, performance evaluation, and iterative improvement strategies.
