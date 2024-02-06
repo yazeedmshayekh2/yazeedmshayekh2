@@ -30,6 +30,8 @@ Among my notable projects, the SilentVoice Project stands out, focusing on Ameri
 
 Currently, I am steering two groundbreaking projects: an LLM specifically tailored for the medical sector, featuring a unique set of features, and an automated attendance system that leverages advanced facial recognition and detection models to ensure optimal results. Concurrently, I am spearheading the development of an AI-Discord community server, aiming to furnish AI enthusiasts with premium learning resources and a platform for collaborative growth.
 
+----------------------------------------------------------------------------
+
 * 🌍  I'm based in Amman, Jordan
 * ✉️  You can contact me at [yzy0202090@ju.edu.jo](mailto:yzy0202090@ju.edu.jo)
 * 🧠  I'm learning LLMs, NLP, RAG, Robotics, Diffusion models, RLHF, and Vector Databases.
