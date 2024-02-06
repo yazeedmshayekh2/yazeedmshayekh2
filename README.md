@@ -1,10 +1,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Yazeed Mshayekh" /></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74957&center=true&vCenter=true&random=false&width=435&lines=Hi+There%2C+It's+Yazeed+Mshayekh;A+Machine+Learning+Engineer;and+Graphic+Designer" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74957&center=true&vCenter=true&random=false&width=435&lines=Hi+There%2C+It's+Yazeed+Mshayekh;A+Machine+Learning+Engineer;and+Graphic+Designer"   alt="Typing SVG" /></a>
+</p>
 
 <br/>
 
