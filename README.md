@@ -33,6 +33,7 @@ Currently, I am steering two groundbreaking projects: an LLM specifically tailor
 ----------------------------------------------------------------------------
 
 * 🌍  I'm based in Amman, Jordan
+* 🖥️  See my portfolio at [My portfolio website](http://www.datascienceportfol.io/YazeedMshayekh)
 * ✉️  You can contact me at [yzy0202090@ju.edu.jo](mailto:yzy0202090@ju.edu.jo)
 * 🧠  I'm learning LLMs, NLP, RAG, Robotics, Diffusion models, RLHF, and Vector Databases.
 * 🤝  I'm open to collaborating on MultiModal LLM project, Automated attendance system using Facial Recognition
